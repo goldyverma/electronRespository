@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "application list application",
+  "main": "main,js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "goldy verma",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.7"
+  }
+}
